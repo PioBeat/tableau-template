@@ -1,0 +1,17 @@
+{
+  "name": "tile-web-template",
+  "authors": [
+    "Dominik Grzelak <dominik@offbeat-pioneer.net>"
+  ],
+  "description": "HTML 5 and CSS3 web template",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
