@@ -225,6 +225,7 @@ section .header:hover .closer:hover, footer .header:hover .closer:hover {
 
 footer {
     position: absolute;
+    overflow: hidden;
     left: 0;
     color: #efefef;
     background-color: #ec971f;

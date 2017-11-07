@@ -1,7 +1,6 @@
 $(function () {
 
     function scrollWindowTop() {
-//            window.scrollTo(0, 0);
         $("html, body").animate({scrollTop: 0}, "fast");
     }
 
@@ -26,9 +25,9 @@ $(function () {
         var $footer = $("footer");
         $footer.removeClass("hidden slide-in-top slide-in-bottom");
         if (screen.width <= 992) {
-            $footer.removeClass("hidden").addClass("slide-in-top");
+            $footer.addClass("slide-in-top").removeClass("hidden");
         } else {
-            $footer.removeClass("hidden").addClass("slide-in-bottom");
+            $footer.addClass("slide-in-bottom").removeClass("hidden");
         }
     });
 
