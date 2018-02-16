@@ -1,8 +1,8 @@
-# TileIt - Web template
-**by OffbeatPioneer**
-http://www.offbeat-pioneer.net
+# Tableau - Web template
+**by Offbeat Pioneer**
+https://www.offbeat-pioneer.net
 
-Free for personal and commercial use under the CCA 3.0 license (License_template.txt)
+Free for personal and commercial use under the CCA 3.0 license (License.txt)
 
 ## Description
 A slick one-page design where each section is represented as a tile.
